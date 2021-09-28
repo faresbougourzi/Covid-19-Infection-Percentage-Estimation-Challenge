@@ -93,7 +93,7 @@ Similar to the training data, you have to provide a single zip containing a fold
 ## The competition schedules:
 The challenge schedule will be as follow:
 
-* 15/10/2021:  Train and Validation data release.
+* 15/10/2021:  Train and Validation data release. :heavy_check_mark:
 
 * 15/11/2021:  Testing datasets release.
 
