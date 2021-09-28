@@ -3,6 +3,22 @@
 Since the end of 2019, the World has faced a health crisis because of the COVID-19 pandemic. Infact, using Medical Imagings has proved their efficiency to detect Covid-19 Infection. These Medical Imagings inlude: X-ray, CT-scans and Ultrasound. Actually, the use of the CT scans is not only limited to the recognition of COVID-19 cases, but they can be used for other important tasks, which include quantifying the infection and monitoring the evolution of the disease, which can help with treatment and save the patient’s life. 
 In this challenge, the competitors will use a dataset that were labelled by two expert radiologists who estimated the Covid-19  infection. In  the  testing  phase,  they  will  test  their  approach using two testing datasets, where the Covid-19 infection percentage were estimated after segmenting the Covid-19 infection and Lungs mask.
 
+## The competition schedules:
+The challenge schedule will be as follow:
+
+* 15/10/2021:  Train and Validation data release. :heavy_check_mark:
+
+* 15/11/2021:  Testing datasets release.
+
+* 30/11/2022:  Challenge ends.
+ 
+* 10/12/2021:  Top 5 teams should send their packages that contain theircodes to be checked.
+ 
+* 20/12/2021:  After checking the codes, the Top 5 teams will be notified tosend their papers.
+ 
+* 15/01/2022:  deadline to submit their papers.
+ 
+* 20/01/2022:  Papers reviewing ends.
 
 ## Evaluation:
 
@@ -89,20 +105,3 @@ Similar to the training data, you have to provide a single zip containing a fold
     └──   
  ```   
 
-
-## The competition schedules:
-The challenge schedule will be as follow:
-
-* 15/10/2021:  Train and Validation data release. :heavy_check_mark:
-
-* 15/11/2021:  Testing datasets release.
-
-* 30/11/2022:  Challenge ends.
- 
-* 10/12/2021:  Top 5 teams should send their packages that contain theircodes to be checked.
- 
-* 20/12/2021:  After checking the codes, the Top 5 teams will be notified tosend their papers.
- 
-* 15/01/2022:  deadline to submit their papers.
- 
-* 20/01/2022:  Papers reviewing ends.
