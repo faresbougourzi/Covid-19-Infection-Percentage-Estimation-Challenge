@@ -26,7 +26,7 @@ The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coe
 
 ## Terms and Conditions:
 
-1- The  competitors  are  asked  to  estimate  the  Covid-19  infection  percentage from each slice using deep learning techniques.  Only the pretrained models on ImageNet and Lung Nodules Segmentation are allowed. Using any external data or other pretrained models are not allowed.  The models must be trained using the training data and evaluated using the validation data.
+1- The  competitors  are  asked  to  estimate  the  Covid-19  infection  percentage from each slice using deep learning techniques.  Only the pretrained models on ImageNet and Lung Nodules Segmentation models are allowed. Using any external data or other pretrained models are not allowed.  The models must be trained using the training data and evaluated using the validation data.
 
 2- Our dataset is only available for research purposes. When you use this dataset, you should give appropriate credit and not use the work for commercial purposes.
 Specifically you should cite our work:
