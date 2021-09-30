@@ -6,7 +6,7 @@ In this challenge, the competitors will use a dataset that were labelled by two 
 ## The competition schedules:
 The challenge schedule will be as follow:
 
-* 31/11/2021:  Train and Validation data release. 
+* 01/12/2021:  Train and Validation data release. 
 
 * 25/12/2021:  Testing datasets release.
 
