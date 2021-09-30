@@ -6,19 +6,19 @@ In this challenge, the competitors will use a dataset that were labelled by two 
 ## The competition schedules:
 The challenge schedule will be as follow:
 
-* 15/10/2021:  Train and Validation data release. :heavy_check_mark:
+* 31/11/2021:  Train and Validation data release. 
 
-* 15/11/2021:  Testing datasets release.
+* 25/12/2021:  Testing datasets release.
 
-* 30/11/2022:  Challenge ends.
+* 31/12/2021:  Challenge ends.
  
-* 10/12/2021:  Top 5 teams should send their packages that contain theircodes to be checked.
+* 10/01/2022:  Top 5 teams should send their packages that contain their codes to be checked.
  
-* 20/12/2021:  After checking the codes, the Top 5 teams will be notified tosend their papers.
+* 20/01/2022:  After checking the codes, the Top 5 teams will be notified to send their papers.
  
-* 15/01/2022:  deadline to submit their papers.
+* 10/02/2022:  deadline to submit their papers.
  
-* 20/01/2022:  Papers reviewing ends.
+* 20/02/2022:  Papers reviewing ends.
 
 ## Evaluation:
 
