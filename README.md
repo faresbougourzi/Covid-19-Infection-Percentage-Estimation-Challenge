@@ -10,7 +10,7 @@ The challenge schedule will be as follow:
 
 * 25/12/2021:  Testing datasets release.
 
-* 31/12/2021:  Challenge ends.
+* 31/12/2021:  The submission of the testing predictions deadline.
  
 * 10/01/2022:  Top 5 teams should send their packages that contain their codes to be checked.
  
