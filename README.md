@@ -83,12 +83,8 @@ Both Train and Val splits will two files: Images (Slices) Folder and Labeling Fo
 
 ```
 
-
-The test data contains two parts: 
-
 - The details of the testing data will be released later.
 
-  From each CT scan,  the radiologistspicked the slices that contain signs of COVID-19 infection and the ones that donot contain any COVID-19 signs.  The dataset were splitted into training andvalidation sets (70%, 30%), (132 Ct-scans, 57 Ct-scans).The test dataset contains two splits:•100 slices from 100 Ct-scans.•29 3D CT-scansThe  competitors  are  asked  to  estimate  the  Covid-19  infection  percentagefrom each slice using deep learning techniques.  Only the pretrained models onImageNet and Lung Nodules Segmentation are allowed. Using any external dataor other pretrained models are not allowed.  The models must be trained usingthe training data and evaluated using the validation data.The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coefficient (PC) and Root Mean Square Error (RMSE).Since there are two evaluation datasets, the final performance will be calcu-lated as follow:MAEfinal= 0.3×MAE100slices+ 0.7×MAE29−3d−ctsP Cfinal= 0.3×P C100slices+ 0.7×P C29−3d−ctsRMSEfinal= 0.3×RMSE100slices+ 0.7×RMSE29−3d−ctsThe comparision between the teams results will be based onMAEfinal.  Iftwo or more teams got thte sameMAEfinal, theP Cfinalwill be used for thecomparison, thenRMSEfinal
 
 ## How to Participate:
 
