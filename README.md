@@ -104,7 +104,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
 
 - Each team should request participation to the challenge on CodaLab plateform with providing the team members, emails and affiliations.
 
-- In the Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv file', that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
+- In the Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
 
 ```bash
     predictions.zip
