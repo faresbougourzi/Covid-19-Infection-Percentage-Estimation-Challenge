@@ -126,4 +126,6 @@ In the end of the validation phase, the Top-10 teams results on the validation d
     └──   
  ```   
  
+ - The Top-5 teams will be invited to send a conference paper to our Workshop of Covid-19 in the 21st International Conference on IMAGE ANALYSIS AND PROCESSING (https://www.iciap2021.org/)
+ 
 
