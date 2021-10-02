@@ -115,9 +115,9 @@ In the end of the validation phase, the Top-10 teams results on the validation d
     │      └ Image_1342.png    Pr1342	        
     └──   
  ```   
- - In the Testing Phase: You have to submit the predictions of the validation data as 'Team_Name.csv file', that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted to the indicated adress email in the testing phase.
+ - In the Testing Phase: You have to submit the predictions of the validation data as 'Team_Name.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted to the indicated adress email in the testing phase.
 ```bash
-    predictions.zip
+    Team_Name.zip
     ├── predictions.csv
     │      ├ Image_0000.png    Pr1            
     │      ├ Image_0001.png    Pr2             
