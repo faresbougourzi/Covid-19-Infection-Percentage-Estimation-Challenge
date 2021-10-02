@@ -100,16 +100,28 @@ In the end of the validation phase, the Top-10 teams results on the validation d
 
 ## How to Participate:
 
-You have to provide a single zip file that contains two files '.txt' file which has the name of the team and 'Val.csv', that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage in the second column. 
-Similar to the training data, you have to provide a single zip containing a folder "sequences". The sequence folder contains sub-folders "11", "12", ..., "21", which contain a folder "predictions". There one has to provide for each scan a label file in binary format containing for each point an unsigned int (32-bit) with the label.
+- Each team should request participation to the challenge on CodaLab plateform with providing the team members, emails and affiliations.
+
+- In the Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv file', that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
+
 ```bash
-    Validation_phase.zip
-    ├── Team_Name.txt 
-    ├── Val.csv
+    predictions.zip
+    ├── predictions.csv
     │      ├ Image_0000.png    Pr1            
     │      ├ Image_0001.png    Pr2             
     │      ├ ...               ...              
     │      └ Image_1342.png    Pr1342	        
     └──   
  ```   
+ - In the Testing Phase: You have to submit the predictions of the validation data as 'Team_Name.csv file', that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted to the indicated adress email in the testing phase.
+```bash
+    predictions.zip
+    ├── predictions.csv
+    │      ├ Image_0000.png    Pr1            
+    │      ├ Image_0001.png    Pr2             
+    │      ├ ...               ...              
+    │      └ Image_1342.png    Pr1342	        
+    └──   
+ ```   
+ 
 
