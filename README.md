@@ -1,7 +1,7 @@
 # Covid-19-Infection-Percentage-Estimation-Challenge:
 
 Since the end of 2019, the World has faced a health crisis because of the COVID-19 pandemic. Infact, using Medical Imagings has proved their efficiency to detect Covid-19 Infection. These Medical Imagings inlude: X-ray, CT-scans and Ultrasound. Actually, the use of the CT scans is not only limited to the recognition of COVID-19 cases, but they can be used for other important tasks, which include quantifying the infection and monitoring the evolution of the disease, which can help with treatment and save the patient’s life. 
-In this challenge, the competitors will use a dataset that were labelled by two expert radiologists who estimated the Covid-19  infection. In  the  testing  phase,  they  will  test  their  approach using two testing datasets, where the Covid-19 infection percentage were estimated after segmenting the Covid-19 infection and Lungs mask.
+In this challenge, the competitors will use a dataset that were labelled by two expert radiologists who estimated the Covid-19 infection, for both train and valiadate their approaches. In  the  testing  phase,  the compititors  will  test  their  approaches a testing dataset that were collected from different CT-scanners and recorfing settings. where the Covid-19 infection percentage were estimated after segmenting the Covid-19 infection and Lungs mask.
 
 ## The competition schedules:
 The challenge schedule will be as follow:
@@ -22,13 +22,17 @@ The challenge schedule will be as follow:
 
 ## Evaluation:
 
-The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coefficient (PC) and Root Mean Square Error (RMSE). The main Evaluation Criterion is the MAE of the Val set. In the case that two or more competitors achieve the same MAE, the PC and RMSE are considered as the tie-breaker, respectively. 
+The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coefficient (PC) and Root Mean Square Error (RMSE). The main Evaluation Criterion is the MAE. In the case that two or more competitors achieve the same MAE, the PC and RMSE are considered as the tie-breaker, respectively. 
 
 ## Terms and Conditions:
 
-1- The  competitors  are  asked  to  estimate  the  Covid-19  infection  percentage from each slice using deep learning techniques.  Only the pretrained models on ImageNet and Lung Nodules Segmentation models are allowed. Using any external data or other pretrained models are not allowed.  The models must be trained using the training data and evaluated using the validation data.
+1- Team size: Teams should have at least 2 people and no more than 7 members.
 
-2- Our dataset is only available for research purposes. When you use this dataset, you should give appropriate credit and not use the work for commercial purposes.
+2- Open Source. The workflow, codes, and presentations prepared as part of the competition will be released as open source.
+
+3- The  competitors  are  asked  to  estimate  the  Covid-19  infection  percentage from each slice using Machine Learning.  Only the pretrained models on ImageNet and Lung Nodules Segmentation models are allowed. Using any external data or other pretrained models are not allowed.  The models must be trained using the training data and evaluated using the validation data.
+
+4- Our dataset is only available for research purposes. When you use this dataset, you should give appropriate credit and not use the work for commercial purposes.
 Specifically you should cite our work:
 ```bash
 @Article{jimaging7090189,
@@ -84,6 +88,14 @@ Both Train and Val splits will two files: Images (Slices) Folder and Labeling Fo
 ```
 
 - The details of the testing data will be released later.
+
+
+## Challenge Phases:
+
+1- Validation Phase: The training and validation phase will be carried out in CodaLab plateform. For the validation set, each team has the possibility to send 10 predictions per day in CodaLab.
+In the end of the validation phase, the Top-10 teams results on the validation data can participate in the Testing phase.
+
+2- Testing Phase: In the testing phase, the Top-10 teams from validation phase will test their approaches using the testing data and submit their predictions, which will be evaluated then the final results will be released.
 
 
 ## How to Participate:
