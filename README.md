@@ -120,7 +120,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
     │      ├ Image_0000.png    Pr1            
     │      ├ Image_0001.png    Pr2             
     │      ├ ...               ...              
-    │      └ Image_1342.png    Pr1342	        
+    │      └ Image_N.png       PrN        
     └──   
  ```   
  
