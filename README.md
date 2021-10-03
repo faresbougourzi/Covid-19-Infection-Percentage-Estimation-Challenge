@@ -22,6 +22,19 @@ The challenge schedule will be as follow:
  
 * 20/02/2022:  Papers reviewing ends.
 
+## The Organizers
+
+* Fares Bougourzi, Dr, Institute of Applied Sciences and Intelligent Systems, National Research Council of Italy, 73100 Lecce, Italy
+
+* Cosimo Distante, Pr, Institute of Applied Sciences and Intelligent Systems, National Research Council of Italy, 73100 Lecce, Italy
+
+* Abdelmalik Taleb-Ahmed, Pr, Univ. Polytechnique Hauts-de-France, Univ. Lille, CNRS, Centrale Lille,  UMR 8520 - IEMN,  F-59313 Valenciennes, France
+
+* Fadi Dornaika, Pr, University of the Basque Country UPV/EHU, San Sebastian, Spain; IKERBASQUE, Basque Foundation for Science, Bilbao, Spain
+
+* Abdenour Hadid, Pr, Univ. Polytechnique Hauts-de-France, Univ. Lille, CNRS, Centrale Lille,  UMR 8520 - IEMN,  F-59313 Valenciennes, France
+
+
 ## Evaluation:
 
 The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coefficient (PC) and Root Mean Square Error (RMSE). The main Evaluation Criterion is the MAE. In the case that two or more competitors achieve the same MAE, the PC and RMSE are considered as the tie-breaker, respectively. 
