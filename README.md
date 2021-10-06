@@ -37,7 +37,7 @@ The challenge schedule will be as follow:
 
 ## Evaluation:
 
-The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coefficient (PC) and Root Mean Square Error (RMSE). The main Evaluation Criterion is the MAE. In the case that two or more competitors achieve the same MAE, the PC and RMSE are considered as the tie-breaker, respectively. 
+The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coefficient (PC) and Root Mean Square Error (RMSE). The most important Evaluation Criterion is the MAE. In the event of two or more competitors achieve the same MAE, the PC and the RMSE are considered as the tie-breaker. 
 
 ## Terms and Conditions:
 
@@ -115,9 +115,9 @@ In the end of the validation phase, the Top-10 teams results on the validation d
 
 ## How to Participate:
 
-- Each team should request participation to the challenge on CodaLab plateform with providing the team members, emails and affiliations.
+- Participation in the Competetion: Each team should request to participate in the competition on the CodaLab platform (https://competitions.codalab.org/competitions/35575) with specifying the team name, members, emails and affiliations. These informations can be sent to: faresbougourzi@gmail.com
 
-- In the Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
+- Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
 
 ```bash
     predictions.zip
