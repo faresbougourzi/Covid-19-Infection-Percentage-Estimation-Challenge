@@ -117,7 +117,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
 
 - Participation in the Competetion: Each team should request to participate in the competition on the CodaLab platform (https://competitions.codalab.org/competitions/35575) with specifying the team name, members, emails and affiliations. The team informations can be send to: faresbougourzi@gmail.com
 
-- Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
+- Validation Phase: In the Validation pahese, each team should submit the predictions of the validation data as 'predictions.csv' file, which contains the names of the slice images in the first column and the corresponding Covid-19 infection percentage estimation in the second column.  This file should be compressed as 'predictions.zip' file and submitted to CodaLab. 
 
 ```bash
     predictions.zip
@@ -128,7 +128,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
     │      └ Image_1342.png    Pr1342	        
     └──   
  ```   
- - In the Testing Phase: You have to submit the predictions of the validation data as 'Team_Name.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted to the indicated adress email in the testing phase.
+ - Testing Phase: each team should submit the predictions of the Testing data as 'Team_Name.csv' file, that contains the names of the slice images in the first column and the corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and sent to: faresbougourzi@gmail.com.
 ```bash
     Team_Name.zip
     ├── predictions.csv
