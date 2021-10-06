@@ -41,14 +41,14 @@ The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coe
 
 ## Terms and Conditions:
 
-1- Team size: Teams should have at least 2 people and no more than 7 members.
+1- Team size: Teams should consist of a minimum of 2  and maximum of 7 members.
 
-2- Open Source. The workflow, codes, and presentations prepared as part of the competition will be released as open source.
+2- Open Source: The workflow, codes, and presentations created as part of the competition will be as open source.
 
-3- The  competitors  are  asked  to  estimate  the  Covid-19  infection  percentage from each slice using Machine Learning.  Only the pretrained models on ImageNet and Lung Nodules Segmentation models are allowed. Using any external data or other pretrained models are not allowed.  The models must be trained using the training data and evaluated using the validation data.
+3- General Rules: Participants  should  estimate  the  percentage of Covid-19  infection  from each slice using Machine Learning.  Only  ImageNet's pre-trained models and Lung Nodule Segmentation models are allowed. The use of external data or other pre-trained models is not allowed.  The models must be trained using the training data and evaluated using the validation data.
 
-4- Our dataset is only available for research purposes. When you use this dataset, you should give appropriate credit and not use the work for commercial purposes.
-Specifically you should cite our work:
+4- Citation: The provided dataset is available for research purposes only. If you use this dataset, you should cite it appropriately and not use the work for commercial purposes. 
+In particular, you should cite the following work:
 ```bash
 @Article{jimaging7090189,
 AUTHOR = {Bougourzi, Fares and Distante, Cosimo and Ouafi, Abdelkrim and Dornaika, Fadi and Hadid, Abdenour and Taleb-Ahmed, Abdelmalik},
