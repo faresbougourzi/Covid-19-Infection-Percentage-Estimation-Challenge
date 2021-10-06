@@ -115,7 +115,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
 
 ## How to Participate:
 
-- Participation in the Competetion: Each team should request to participate in the competition on the CodaLab platform (https://competitions.codalab.org/competitions/35575) with specifying the team name, members, emails and affiliations. These informations can be sent to: faresbougourzi@gmail.com
+- Participation in the Competetion: Each team should request to participate in the competition on the CodaLab platform (https://competitions.codalab.org/competitions/35575) with specifying the team name, members, emails and affiliations. The team informations can be send to: faresbougourzi@gmail.com
 
 - Validation Phase: You have to submit the predictions of the validation data as 'predictions.csv' file, that contains the names of the slice images in the first column and their corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and submitted in CodaLab. 
 
