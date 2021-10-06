@@ -1,7 +1,7 @@
 # Covid-19-Infection-Percentage-Estimation-Challenge:
 
-Since the end of 2019, the World has faced a health crisis because of the COVID-19 pandemic. Infact, using Medical Imagings has proved their efficiency to detect Covid-19 Infection. These Medical Imagings inlude: X-ray, CT-scans and Ultrasound. Actually, the use of the CT scans is not only limited to the recognition of COVID-19 cases, but they can be used for other important tasks, which include quantifying the infection and monitoring the evolution of the disease, which can help with treatment and save the patient’s life. 
-In this challenge, the competitors will use a dataset that were labelled by two expert radiologists who estimated the Covid-19 infection, for both train and valiadate their approaches. In  the  testing  phase,  the compititors  will  test  their  approaches a testing dataset that were collected from different CT-scanners and recording settings. 
+Since late 2019, the world been in health crisis because of the COVID-19 pandemic. In fact, using Medical Imagery has proved to be efficient in detecting Covid-19 Infection. These Medical Imaging inlude: X-ray, CT-scans and Ultrasounds. The use of CT-scans is not only limited to the detection of COVID-19 cases, but they can also be used for other important tasks such quantifying the infection and monitoring the evolution of the disease, which can help in treatment and save the patient’s life. 
+In this challenge, the participants will use a dataset labelled by two expert radiologists, who estimated the Covid-19 infection, to train and valiadate their approaches. In  the  testing  phase,  participants  will  test  their  approaches a test dataset collected from various CT-scanners and recording settings. 
 
 <!-- where the Covid-19 infection percentage were estimated after segmenting the Covid-19 infection and Lungs mask. -->
 
