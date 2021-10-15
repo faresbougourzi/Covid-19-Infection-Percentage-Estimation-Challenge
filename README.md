@@ -18,7 +18,7 @@ The challenge schedule will be as follow:
  
 * 20/01/2022:  After checking the codes, the Top 5 teams will be notified to send their papers.
  
-* 10/02/2022:  deadline to submit their papers.
+* 10/02/2022:  Deadline to submit their papers.
  
 * 20/02/2022:  Papers reviewing ends.
 
