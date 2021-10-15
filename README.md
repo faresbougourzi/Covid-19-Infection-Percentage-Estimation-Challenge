@@ -8,6 +8,21 @@ In this challenge, the participants will use a dataset labelled by two expert ra
 ## The competition schedules:
 The challenge schedule will be as follow:
 
+* 	16/10/2021: The competition Starts. Train and Validation data will be released.
+ 	
+*	15/01/2022: Testing datasets release.
+	
+* 21/01/2022: Deadline to submit the testing predictions. 
+* 25/01/2022: Testing Rank release. The Top-5 teams should start preparing their packages (that contain their codes to be checked), and start preparing their approach's description text (they are invited to send their papers to our Covid-19 Workshop,  https://cmt3.research.microsoft.com/Covid2022).
+
+
+*   30/01/2022: The Deadline to submit the packages. 
+*   15/02/2022: Deadline to submit the papers.
+*   28/02/2022: Notification of the papers acceptance.
+
+
+
+<!--- 
 * 01/12/2021:  Train and Validation data release. 
 
 * 25/12/2021:  Testing datasets release.
@@ -20,7 +35,7 @@ The challenge schedule will be as follow:
  
 * 10/02/2022:  Deadline to submit their papers.
  
-* 20/02/2022:  Papers reviewing ends.
+* 20/02/2022:  Papers reviewing ends.  --->
 
 ## The Organizers
 
