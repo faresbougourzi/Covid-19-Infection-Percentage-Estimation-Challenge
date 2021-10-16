@@ -12,9 +12,9 @@ The challenge schedule will be as follow:
  	
 *	20/12/2021: Testing datasets release.
 	
-*       30/12/2021: Deadline to submit the testing predictions. 
+* 30/12/2021: Deadline to submit the testing predictions. 
 
-*       15/01/2022: Testing Rank release. The Top-5 teams should start preparing their packages (that contain their codes to be checked), and start preparing their approach's description text (you are invited to send their papers to our Covid-19 Workshop,  https://cmt3.research.microsoft.com/Covid2022, otherwise, send us the ARXIV link).
+* 15/01/2022: Testing Rank release. The Top-5 teams should start preparing their packages (that contain their codes to be checked), and start preparing their approach's description text (you are invited to send their papers to our Covid-19 Workshop,  https://cmt3.research.microsoft.com/Covid2022, otherwise, send us the ARXIV link).
 
 
 *   30/01/2022: The Deadline to submit the packages. 
