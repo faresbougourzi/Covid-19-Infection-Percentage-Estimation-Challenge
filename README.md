@@ -103,7 +103,9 @@ DOI = {10.3390/jimaging7090189}
 The challenge has three sets: Train, Val, and Test. The Train set is obtained from 132 CT-scans, from which 128 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by two experienced thoracic radiologists. The rest four CT-scans have not any infection type (Healthy). The Val set is obtained from 57 CT-scans, from which 55 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by two experienced thoracic radiologists. The rest  two CT-scans have not any infection type (Healthy). 
 
 The Train split has two files: Images (Slices) Folder and Labeling Folder ('.csv' file) that contains the labels for each Slice (Image)
+
 The Train Split can be dowloaded from the link:
+
 https://drive.google.com/drive/folders/1vPYMrL_IwC_wOxff3wX_Rg1iIJyNl2Dc?usp=sharing
 ```bash
     Train Set
@@ -123,9 +125,12 @@ https://drive.google.com/drive/folders/1vPYMrL_IwC_wOxff3wX_Rg1iIJyNl2Dc?usp=sha
  ```   
     
     
-The Validation split has one file contains the slices images, which will be used to predict the Covid-19 infection percentage estimation. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance: 
-The Val Split can be dowloaded from the link:
+The Validation split has one file contains the slices images, which will be used to predict the Covid-19 infection percentage estimation. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance:
+
+The Validation Split can be dowloaded from the link:
+
 https://drive.google.com/drive/folders/18V_u6Vo75a_A5RlUH80UcXh3i0rc5keE?usp=sharing
+
 ```bash    
     Val Set
     ├── Slices Folder 
