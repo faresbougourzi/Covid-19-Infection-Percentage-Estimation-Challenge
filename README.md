@@ -66,7 +66,7 @@ The evaluation metrics are:  Mean Absolute Error (MAE), Pearson Correla-tion coe
 3- General Rules: Participants  should  estimate  the  percentage of Covid-19  infection  from each slice using Machine Learning.  Only  ImageNet's pre-trained models and Lung Nodule Segmentation models are allowed. The use of external data or other pre-trained models is not allowed.  The models must be trained using the training data and evaluated using the validation data.
 
 4- Citation: The provided dataset is available for research purposes only. If you use this dataset, you should cite it appropriately and not use the work for commercial purposes. 
-In particular, you should cite the following work:
+In particular, you should cite the following works:
 ```bash
 @Article{jimaging7090189,
 AUTHOR = {Bougourzi, Fares and Distante, Cosimo and Ouafi, Abdelkrim and Dornaika, Fadi and Hadid, Abdenour and Taleb-Ahmed, Abdelmalik},
