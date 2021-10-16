@@ -80,6 +80,18 @@ ISSN = {2313-433X},
 DOI = {10.3390/jimaging7090189}
 }
 ```
+```bash
+@article{vantaggiato2021covid,
+  title={Covid-19 recognition using ensemble-cnns in two new chest x-ray databases},
+  author={Vantaggiato, Edoardo and Paladini, Emanuela and Bougourzi, Fares and Distante, Cosimo and Hadid, Abdenour and Taleb-Ahmed, Abdelmalik},
+  journal={Sensors},
+  volume={21},
+  number={5},
+  pages={1742},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
 
 ## Challenge Dataset:
 
