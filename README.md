@@ -120,7 +120,7 @@ https://drive.google.com/drive/folders/1vPYMrL_IwC_wOxff3wX_Rg1iIJyNl2Dc?usp=sha
     │         ├ Image_0000.png    0.0                  0
     │         ├ Image_0001.png    0.0                  0
     │         ├ ...               ...                  ..
-    │         └ Image_3011.png    49.0	               131
+    │         └ Image_3053.png    49.0	               131
     └── 
  ```   
     
@@ -144,7 +144,7 @@ https://drive.google.com/drive/folders/18V_u6Vo75a_A5RlUH80UcXh3i0rc5keE?usp=sha
     │         ├ Image_0000.png    0.0                  0
     │         ├ Image_0001.png    0.0                  0
     │         ├ ...               ...                  ..
-    │         └ Image_1342.png    8.0	               56
+    │         └ Image_1300.png    8.0	               56
     └──     
 
 ```
@@ -169,10 +169,10 @@ In the end of the validation phase, the Top-10 teams results on the validation d
 ```bash
     predictions.zip
     ├── predictions.csv
-    │      ├ Image_0000.png    Pr1            
-    │      ├ Image_0001.png    Pr2             
+    │      ├ Image_0000.png    Pr0            
+    │      ├ Image_0001.png    Pr1             
     │      ├ ...               ...              
-    │      └ Image_1342.png    Pr1342	        
+    │      └ Image_1300.png    Pr1300	        
     └──   
  ```   
  - Testing Phase: each team should submit the predictions of the Testing data as 'Team_Name.csv' file, that contains the names of the slice images in the first column and the corresponding Covid-19 infection percentage estimation in the second column.  This file must be compressed as 'predictions.zip' file and sent to: faresbougourzi@gmail.com.
