@@ -1,5 +1,9 @@
 # Covid-19-Infection-Percentage-Estimation-Challenge:
 
+## Chanllenge Plateform (CodaLab):
+https://competitions.codalab.org/competitions/35575
+
+## Overview:
 Since late 2019, the world been in health crisis because of the COVID-19 pandemic. In fact, using Medical Imagery has proved to be efficient in detecting Covid-19 Infection. These Medical Imaging inlude: X-ray, CT-scans and Ultrasounds. The use of CT-scans is not only limited to the detection of COVID-19 cases, but they can also be used for other important tasks such quantifying the infection and monitoring the evolution of the disease, which can help in treatment and save the patient’s life. 
 In this challenge, the participants will use a dataset labelled by two expert radiologists, who estimated the Covid-19 infection, to train and valiadate their approaches. In  the  testing  phase,  participants  will  test  their  approaches using a test dataset collected from various CT-scanners and recording settings. 
 
@@ -14,7 +18,7 @@ The challenge schedule will be as follow:
 	
 * 30/12/2021: Deadline to submit the testing predictions. 
 
-* 15/01/2022: Testing Rank release. The Top-5 teams should start preparing their packages (that contain their codes to be checked), and start preparing their approach's description text (you are invited to send their papers to our Covid-19 Workshop,  https://cmt3.research.microsoft.com/Covid2022, otherwise, send us the ARXIV link).
+* 15/01/2022: Testing Rank release. The Top-5 teams should start preparing their packages (that contain their codes to be checked), and start preparing their approach's description text (you are invited to send your papers to our Covid-19 Workshop,  https://cmt3.research.microsoft.com/Covid2022, otherwise, send us the ARXIV link).
 
 
 *   30/01/2022: The Deadline to submit the packages. 
@@ -96,7 +100,7 @@ DOI = {10.3390/jimaging7090189}
 
 ## Challenge Dataset:
 
-The challenge has three sets: Train, Val, and Test. The Train set is obtained from 132 CT-scans, from which 128 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by twoexperienced thoracic radiologists. The rest four CT-scans have not any infection type (Healthy). The Val set is obtained from 57 CT-scans, from which 55 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by two experienced thoracic radiologists. The rest  two CT-scans have not any infection type (Healthy). 
+The challenge has three sets: Train, Val, and Test. The Train set is obtained from 132 CT-scans, from which 128 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by two experienced thoracic radiologists. The rest four CT-scans have not any infection type (Healthy). The Val set is obtained from 57 CT-scans, from which 55 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by two experienced thoracic radiologists. The rest  two CT-scans have not any infection type (Healthy). 
 
 The Train split has two files: Images (Slices) Folder and Labeling Folder ('.csv' file) that contains the labels for each Slice (Image)
 The Train Split can be dowloaded from the link:
@@ -116,11 +120,13 @@ https://drive.google.com/drive/folders/1vPYMrL_IwC_wOxff3wX_Rg1iIJyNl2Dc?usp=sha
     │         ├ ...               ...                  ..
     │         └ Image_3011.png    49.0	               131
     └── 
+ ```   
     
-The Validation split has one file contains the slice images, which will be used to predict the Covid-19 infection percentage estimation. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance: 
+    
+The Validation split has one file contains the slices images, which will be used to predict the Covid-19 infection percentage estimation. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance: 
 The Val Split can be dowloaded from the link:
 https://drive.google.com/drive/folders/18V_u6Vo75a_A5RlUH80UcXh3i0rc5keE?usp=sharing
-    
+```bash    
     Val Set
     ├── Slices Folder 
     │      ├ Image_0000.png
@@ -175,7 +181,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
     └──   
  ```   
  
- - The Top-5 teams are encaraged to submit a conference paper (Summurise the approach and diffent experiements) to our Workshop of Covid-19 in the 21st International Conference on IMAGE ANALYSIS AND PROCESSING (https://www.iciap2021.org/call-for-competitions-2/). Otherwise, you need to send us the link of the description approach in ARXIV paper.
+ - The Top-5 teams are encaraged to submit a conference paper (Summurise the approach and diffent experiements) to our Workshop of Covid-19 in the 21st International Conference on IMAGE ANALYSIS AND PROCESSING (https://www.iciap2021.org/call-for-competitions-2/). otherwise, send us the ARXIV link.
  
 ## Prizes:
 
