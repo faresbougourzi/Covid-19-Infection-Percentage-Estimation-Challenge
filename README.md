@@ -125,7 +125,7 @@ https://drive.google.com/drive/folders/1vPYMrL_IwC_wOxff3wX_Rg1iIJyNl2Dc?usp=sha
  ```   
     
     
-The Validation split has one file contains the slices images, which will be used to predict the Covid-19 infection percentage estimation. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance:
+The Validation split has one file contains the slices images, which will be used to predict the Covid-19 infection percentage. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance:
 
 The Validation Split can be dowloaded from the link:
 
