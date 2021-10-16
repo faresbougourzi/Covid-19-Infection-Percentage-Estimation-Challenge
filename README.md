@@ -98,7 +98,9 @@ DOI = {10.3390/jimaging7090189}
 
 The challenge has three sets: Train, Val, and Test. The Train set is obtained from 132 CT-scans, from which 128 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by twoexperienced thoracic radiologists. The rest four CT-scans have not any infection type (Healthy). The Val set is obtained from 57 CT-scans, from which 55 CT-scans has confirmed to have Covid-19 based on positive reverse transcription poly-merase chain reaction (RT-PCR) and CT scan manifestations identified by two experienced thoracic radiologists. The rest  two CT-scans have not any infection type (Healthy). 
 
-Both Train and Val splits will two files: Images (Slices) Folder and Labeling Folder ('.csv' file) that contains the labels for each Slice (Image)
+The Train split has two files: Images (Slices) Folder and Labeling Folder ('.csv' file) that contains the labels for each Slice (Image)
+The Train Split can be dowloaded from the link:
+https://drive.google.com/drive/folders/1vPYMrL_IwC_wOxff3wX_Rg1iIJyNl2Dc?usp=sharing
 ```bash
     Train Set
     ├── Slices Folder 
@@ -114,6 +116,10 @@ Both Train and Val splits will two files: Images (Slices) Folder and Labeling Fo
     │         ├ ...               ...                  ..
     │         └ Image_3011.png    49.0	               131
     └── 
+    
+The Validation split has one file contains the slice images, which will be used to predict the Covid-19 infection percentage estimation. These prediction should be saved as '.csv' file and submitted to the Codalab (https://competitions.codalab.org/competitions/35575) to evaluation the performance: 
+The Val Split can be dowloaded from the link:
+https://drive.google.com/drive/folders/18V_u6Vo75a_A5RlUH80UcXh3i0rc5keE?usp=sharing
     
     Val Set
     ├── Slices Folder 
@@ -137,10 +143,10 @@ Both Train and Val splits will two files: Images (Slices) Folder and Labeling Fo
 
 ## Challenge Phases:
 
-1- Validation Phase: The training and validation phase will be carried out in CodaLab plateform. For the validation set, each team has the possibility to send 10 predictions per day in CodaLab.
+1- Validation Phase: The training and validation phase will be carried out in CodaLab plateform. For the validation set, each team has the possibility to send five predictions per day in CodaLab.
 In the end of the validation phase, the Top-10 teams results on the validation data can participate in the Testing phase.
 
-2- Testing Phase: In the testing phase, the Top-10 teams from validation phase will test their approaches using the testing data and submit their predictions, which will be evaluated then the final results will be released.
+2- Testing Phase: In the testing phase, the Top-10 teams from validation phase will test their approaches using the testing data and submit their predictions, which will be evaluated then the final ranking will be released.
 
 
 ## How to Participate:
@@ -171,7 +177,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
  
  - The Top-5 teams are encaraged to submit a conference paper (Summurise the approach and diffent experiements) to our Workshop of Covid-19 in the 21st International Conference on IMAGE ANALYSIS AND PROCESSING (https://www.iciap2021.org/call-for-competitions-2/). Otherwise, you need to send us the link of the description approach in ARXIV paper.
  
-## Prices:
+## Prizes:
 
 The details about the Prices will be released later.
 
