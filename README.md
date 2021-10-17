@@ -190,5 +190,5 @@ In the end of the validation phase, the Top-10 teams results on the validation d
  
 ## Prizes:
 
-The details about the Prices will be released later.
+The details about the Prizes will be released later.
 
