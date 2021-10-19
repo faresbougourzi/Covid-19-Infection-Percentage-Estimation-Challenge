@@ -12,7 +12,7 @@ In this challenge, the participants will use a dataset labelled by two expert ra
 ## The competition schedules:
 The challenge schedule will be as follow:
 
-* 	16/10/2021: The competition Starts. Train and Validation data will be released.
+* 	16/10/2021: The competition Starts. Train and Validation data will be released. :heavy_check_mark:
  	
 *	20/12/2021: Testing datasets release.
 	
