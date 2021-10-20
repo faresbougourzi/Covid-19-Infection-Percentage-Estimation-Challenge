@@ -186,7 +186,7 @@ In the end of the validation phase, the Top-10 teams results on the validation d
     └──   
  ```   
  
- - The Top-5 teams are encaraged to submit a conference paper (Summurise the approach and diffent experiements) to our Workshop of Covid-19 in the 21st International Conference on IMAGE ANALYSIS AND PROCESSING (https://www.iciap2021.org/call-for-competitions-2/). otherwise, send us the ARXIV link.
+ - The Top-5 teams are encouraged to submit a conference paper (Summarize the approach and different experiments) to MIA COVID 2022 Workshop (https://sites.google.com/view/covid19iciap2022) in the 21st International Conference on IMAGE ANALYSIS AND PROCESSING (https://www.iciap2021.org/call-for-competitions-2/). otherwise, send us the ARXIV link.
  
 ## Prizes:
 
