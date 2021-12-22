@@ -42,7 +42,9 @@ The challenge schedule will be as follow:
  
 * 10/02/2022:  Deadline to submit their papers.
  
-* 20/02/2022:  Papers reviewing ends.  --->
+* 20/02/2022:  Papers reviewing ends. 
+ https://drive.google.com/file/d/1BaLg5c_vjoVMU6eBNDTRnBzIV04RyGGd/view?usp=sharing
+--->
 
 ## The Organizers
 
