@@ -14,7 +14,7 @@ The challenge schedule will be as follow:
 
 * 	16/10/2021: The competition Starts. Train and Validation data will be released. :heavy_check_mark:
  	
-*	20/12/2021: Testing datasets release.
+*	20/12/2021: Testing datasets release.  :heavy_check_mark:
 	
 * 30/12/2021: Deadline to submit the testing predictions. 
 
