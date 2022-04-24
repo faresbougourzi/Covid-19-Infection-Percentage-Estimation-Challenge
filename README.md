@@ -24,12 +24,20 @@ The challenge schedule will be as follow:
 *   15/03/2022: Deadline to submit the papers to the associated Covid-19 Workshop,  https://sites.google.com/view/covid19iciap2022/.  :heavy_check_mark:
 
 ## The Competition Ranking:
+### The Winning Teams
+1- Suman Chaudhary and  Wanting Yang
+2- Talha Anwar
+3- Radu Miron, Cosmin Moisii, Vlad Barbu and Mihaela Breaban
+4- Chih-Chung Hsu, Sheng-Jay Tai, and Shao-Min Chen
+5- Davide Tricarico, Ayesha Chaudhry, Attilio Fiandrotti, and Marco Grangetto
+6- Maria Ausilia Napoli Spatafora, Sebastiano Battiato, Alessandro Ortis, and Daniela Campisi.
+
 ### Validation Results			
 |Team Name |             	Codalab Username| 	MAE|	PC| 	RMSE|
 |:--------|:----------|:---------|:----------|:---------|
 |1.SenticLab.UAIC| 	SenticLab.UAIC|	4.17140661|	0.948787386|	8.196144648|
 |2.TAC|	talhaanwar|	4.484023556|	0.946005946|	8.547415523|
-|3.Taiyuan_university_lab713| 	suman	4.504261529|	0.949030574|	8.096456422|
+|3.Taiyuan_university_lab713| 	suman|	4.504261529|	0.949030574|	8.096456422|
 |4.EIDOSlab_Unito| 	davide.tricarico|	4.912411698|	0.942962971|	8.700152227|
 |5.ausilianapoli94|	ausilianapoli94|	4.95311299|	0.943508386|	8.603844126|
 |6.ACVLab|	 ACVLab|	4.992599789|	0.9364718|	9.080638078|
