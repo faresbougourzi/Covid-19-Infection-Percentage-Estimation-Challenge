@@ -18,12 +18,12 @@ The challenge schedule will be as follow:
 	
 * 30/12/2021: Deadline to submit the testing predictions.   :heavy_check_mark:
 
-* 30/01/2022: Testing Rank release. The Top-teams should submit their packages (that contain their codes to be checked; better to provide github link), and their approach's description text, it is prefered to submit an the ARXIV link (but you can submit a PDF as well)
+* 30/01/2022: Testing Rank release. The Top-teams should submit their packages (that contain their codes to be checked; better to provide github link), and their approach's description text, it is prefered to submit an the ARXIV link (but you can submit a PDF as well)  :heavy_check_mark:
  
 
-*   15/03/2022: Deadline to submit the papers to the associated Covid-19 Workshop,  https://sites.google.com/view/covid19iciap2022/. 
+*   15/03/2022: Deadline to submit the papers to the associated Covid-19 Workshop,  https://sites.google.com/view/covid19iciap2022/.  :heavy_check_mark:
 
-
+## The Competition Ranking:
 
 
 <!--- 
