@@ -47,7 +47,7 @@ The challenge schedule will be as follow:
 				
 				
 ### Final Ranking (0.3*Val+0.7*Test)				
-Team Name              	Codalab Username 	MAE	PC 	RMSE
+|Team Name |             	Codalab| Username |	MAE|	PC| 	RMSE|
 |:--------|:----------|:---------|:----------|:---------|
 |1.Taiyuan_university_lab713|	suman|	3.8411658349|	0.8830663393|	7.920581250|
 |2.TAC|	talhaanwar|	3.8969821647|	0.8453475385| 	8.5544509892|
