@@ -26,10 +26,15 @@ The challenge schedule will be as follow:
 ## The Competition Ranking:
 ### The Winning Teams
 1- Suman Chaudhary and  Wanting Yang
+
 2- Talha Anwar
+
 3- Radu Miron, Cosmin Moisii, Vlad Barbu and Mihaela Breaban
+
 4- Chih-Chung Hsu, Sheng-Jay Tai, and Shao-Min Chen
+
 5- Davide Tricarico, Ayesha Chaudhry, Attilio Fiandrotti, and Marco Grangetto
+
 6- Maria Ausilia Napoli Spatafora, Sebastiano Battiato, Alessandro Ortis, and Daniela Campisi.
 
 ### Validation Results			
