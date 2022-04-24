@@ -46,15 +46,6 @@ The challenge schedule will be as follow:
 |6.IPLab|	ausilianapoli94|	6.536300292|	0.709168691|	9.97612344|
 				
 
-### Testing Results				
-|Team Name              	|Codalab Username| 	MAE|	PC| 	RMSE|
-|:--------|:----------|:---------|:----------|:---------|
-|1.Taiyuan_university_lab713|	suman|	3.556981966|	0.854795953|	7.51020585|
-|2.TAC|	talhaanwar|	3.645392997|	0.802208221|	8.570867077|
-|3.SenticLab.UAIC|	SenticLab.UAIC|	4.617217352|	0.7634996|	9.099633322|
-|4.ACVLab|	ACVLab|	4.866063832|	0.72872904|	10.27505977|
-|5.EIDOSlab_Unito|	davide.tricarico|	5.020207858|	0.797797023|	9.005695703|
-|6.IPLab|	ausilianapoli94|	6.536300292|	0.709168691|	9.97612344|
 
 ### Final Ranking  (0.3 Val+0.7 Test)	
 |Team Name              	|Codalab Username| 	MAE|	PC| 	RMSE|
