@@ -2,7 +2,7 @@
 
 ## Chanllenge Plateform (CodaLab):
 https://competitions.codalab.org/competitions/35575
-Since this Codalab server will be read only plateform, we moved the conpetition to the new Codalab server, you can continue participating in this challenge through this link: 
+Since this Codalab server will be read only platform, we moved the competition to the new Codalab server, you can continue participating in this challenge through this link: 
 https://codalab.lisn.upsaclay.fr/competitions/7065
 
 
