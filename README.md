@@ -2,6 +2,9 @@
 
 ## Chanllenge Plateform (CodaLab):
 https://competitions.codalab.org/competitions/35575
+Since this Codalab server will be read only plateform, we moved the conpetition to the new Codalab server, you can continue your participation in this challenge through this link: 
+https://codalab.lisn.upsaclay.fr/competitions/7065
+
 
 ## Overview:
 Since late 2019, the world been in health crisis because of the COVID-19 pandemic. In fact, using Medical Imagery has proved to be efficient in detecting Covid-19 Infection. These Medical Imaging include: X-ray, CT-scans and Ultrasounds. The use of CT-scans is not only limited to the detection of COVID-19 cases, but they can also be used for other important tasks such quantifying the infection and monitoring the evolution of the disease, which can help in treatment and save the patient’s life. 
