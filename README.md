@@ -1,4 +1,4 @@
-# Covid-19-Infection-Percentage-Estimation-Challenge:
+# Per-COVID-19 Challenge: Covid 19 Infection Percentage Estimation Challenge:
 
 ## Chanllenge Plateform (CodaLab):
 https://competitions.codalab.org/competitions/35575
